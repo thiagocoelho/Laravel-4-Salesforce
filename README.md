@@ -1,4 +1,4 @@
-Laravel 4 Salesforce
+Laravel 4 Salesforce - Thiago
 ====================
 
 This Laravel 4 package provides an interface for using [Salesforce CRM](http://www.salesforce.com/) through its SOAP API.
